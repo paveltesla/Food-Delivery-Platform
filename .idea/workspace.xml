@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="535e985f-4a05-4d60-aaf7-e5958b2668ee" name="Changes" comment="adding all config fails">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/User Service/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="535e985f-4a05-4d60-aaf7-e5958b2668ee" name="Changes" comment="configuration DB on application.properties" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,10 +36,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "paveltesla"
-  }
+  "lastFilter": {}
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
@@ -78,6 +72,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "dev-br",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/for IDE Projects/Food-Delivery-Platform",
@@ -119,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760731706375</updated>
-      <workItem from="1760731707991" duration="1459000" />
+      <workItem from="1760731707991" duration="1842000" />
     </task>
     <task id="LOCAL-00001" summary="adding all config fails">
       <option name="closed" value="true" />
@@ -137,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760732120268</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="configuration DB on application.properties">
+      <option name="closed" value="true" />
+      <created>1760733473399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760733473399</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding all config fails" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding all config fails" />
+    <MESSAGE value="configuration DB on application.properties" />
+    <option name="LAST_COMMIT_MESSAGE" value="configuration DB on application.properties" />
   </component>
 </project>

@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="535e985f-4a05-4d60-aaf7-e5958b2668ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/HELP.md" afterDir="false" />
+    <list default="true" id="535e985f-4a05-4d60-aaf7-e5958b2668ee" name="Changes" comment="adding all config fails">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User Service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/User Service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +48,21 @@
   "selectedUrlAndAccountId": {
     "url": "https://github.com/paveltesla/Food-Delivery-Platform.git",
     "accountId": "efe9d8c6-3741-44a6-abaa-10b4837d1477"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "paveltesla",
+    "repository": "Food-Delivery-Platform"
   }
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -79,7 +81,17 @@
     "git-widget-placeholder": "dev-br",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/for IDE Projects/Food-Delivery-Platform",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -107,11 +119,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760731706375</updated>
-      <workItem from="1760731707991" duration="282000" />
+      <workItem from="1760731707991" duration="1459000" />
     </task>
+    <task id="LOCAL-00001" summary="adding all config fails">
+      <option name="closed" value="true" />
+      <created>1760732004571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760732004571</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding all config fails">
+      <option name="closed" value="true" />
+      <created>1760732120268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760732120268</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding all config fails" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding all config fails" />
   </component>
 </project>

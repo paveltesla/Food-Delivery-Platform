@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="535e985f-4a05-4d60-aaf7-e5958b2668ee" name="Changes" comment="creating frontend">
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/config/JwtAuthenticationEntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/config/JwtTokenFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/config/JwtTokenProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/dto/AddressDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/dto/JwtResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/dto/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/dto/RegisterRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/dto/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/entity/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/mapper/AddressMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/repository/AddressRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/service/CustomUserDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User Service/src/main/java/com/example/userservice/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_source_mapping.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User Service/.gradle/8.14.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/User Service/.gradle/8.14.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User Service/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/User Service/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User Service/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/User Service/compose.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="535e985f-4a05-4d60-aaf7-e5958b2668ee" name="Changes" comment="creating frontend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +182,7 @@
       <updated>1760731706375</updated>
       <workItem from="1760731707991" duration="3572000" />
       <workItem from="1760957177774" duration="9415000" />
-      <workItem from="1760975410809" duration="5653000" />
+      <workItem from="1760975410809" duration="6077000" />
     </task>
     <task id="LOCAL-00001" summary="adding all config fails">
       <option name="closed" value="true" />

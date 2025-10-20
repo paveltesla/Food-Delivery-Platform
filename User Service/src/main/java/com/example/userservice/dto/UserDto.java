@@ -11,7 +11,7 @@ public class UserDto {
     private Long id;
     private String fullName;
     private String email;
-    private Set<Role> roles;
+    private Set<String> roles;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 }

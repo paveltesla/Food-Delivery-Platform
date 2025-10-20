@@ -6,24 +6,27 @@ import lombok.Data;
 @Data
 @Entity
 @Table(name = "address")
-
 public class Address {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
-    @Column(name = "street", nullable = false)
+    @Column(nullable = false)
     private String street;
 
-    @Column(name = "city", nullable = false)
+    @Column(nullable = false)
     private String city;
 
     @Column(name = "zip", nullable = false)
     private String zipCode;
 
-    @Column(name = "state", nullable = false)
     private String state;
 
-    @Column(name = "country", nullable = false)
     private String country;
+
+    // ДОБАВЬТЕ это поле - оно должно существовать для mappedBy
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "user_id", nullable = false)
+    private User user;
 }
